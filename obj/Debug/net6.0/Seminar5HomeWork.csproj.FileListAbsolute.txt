@@ -1,0 +1,15 @@
+D:\Users\ASUS\Desktop\Seminar5HomeWork\bin\Debug\net6.0\Seminar5HomeWork.exe
+D:\Users\ASUS\Desktop\Seminar5HomeWork\bin\Debug\net6.0\Seminar5HomeWork.deps.json
+D:\Users\ASUS\Desktop\Seminar5HomeWork\bin\Debug\net6.0\Seminar5HomeWork.runtimeconfig.json
+D:\Users\ASUS\Desktop\Seminar5HomeWork\bin\Debug\net6.0\Seminar5HomeWork.dll
+D:\Users\ASUS\Desktop\Seminar5HomeWork\bin\Debug\net6.0\Seminar5HomeWork.pdb
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\Seminar5HomeWork.csproj.AssemblyReference.cache
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\Seminar5HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\Seminar5HomeWork.AssemblyInfoInputs.cache
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\Seminar5HomeWork.AssemblyInfo.cs
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\Seminar5HomeWork.csproj.CoreCompileInputs.cache
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\Seminar5HomeWork.dll
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\refint\Seminar5HomeWork.dll
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\Seminar5HomeWork.pdb
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\Seminar5HomeWork.genruntimeconfig.cache
+D:\Users\ASUS\Desktop\Seminar5HomeWork\obj\Debug\net6.0\ref\Seminar5HomeWork.dll
